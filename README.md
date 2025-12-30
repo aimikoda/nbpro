@@ -181,3 +181,15 @@ Even with strong prompting, you should review outputs carefully, especially when
 
 Google notes that media generated with Google tools may include **SynthID** watermarking and that some experiences may label AI-generated outputs.
 
+### Source note
+
+This document is a consolidated and independently written guide based on information published by Google about Nano Banana Pro (Gemini 3 Pro Image).
+
+It was compiled from the following official sources:
+- Google Technology Blog: Nano Banana Pro overview and capabilities  
+- Google Gemini Blog: Prompting tips and best practices for Nano Banana Pro
+
+The content has been reorganized, summarized, and rewritten for clarity and practical use.  
+It is intended as an educational and reference resource and is not an official Google publication.
+
+
